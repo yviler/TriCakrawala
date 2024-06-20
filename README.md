@@ -43,11 +43,12 @@ Solusi :
 
 ### 1. Dataset
 - Data Collection <br />
-Kami menemukan data kami di Kaggle.
+Dataset image didapatkan dengan image scraping menggunakan <a href=https://github.com/ultralytics/flickr_scraper>Ultralytics</a>
 - Data Cleaning <br />
-Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang belum dibersihkan dan yang sudah: 
-
-Poin soal dataset boleh ditambahkan sesuai kebutuhan.
+Kami menggunakan roboflow untuk membersihkan data image:
+    1. Standardkan Resolusi 224x224px
+    2. Greyscaling
+    3. Augmentasi
 
 ### 2. Algorithm
 
@@ -55,10 +56,10 @@ Poin soal dataset boleh ditambahkan sesuai kebutuhan.
 Kami menggunakan TensorFlow dan Keras.
 
 - Pembangunan Model <br />
-Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
+Transfer Learning menggunakan MobileNetV2
 
 - Model Evaluation <br />
-Masukkan metrik evaluasi model seperti accuracy, precision, recall, F1-score, dan lain - lain.
+Validation Accuracy: ~80%
 
 ## Prototype
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
