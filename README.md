@@ -4,10 +4,6 @@
     <img src="Logo Batik Pedia.png">
 </div>
 
-<p align="center"> 
-Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan dokumentasi Project Massive anda
-</p>
-
 <div align="center">
     <!-- Your badges here -->
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -16,6 +12,10 @@ Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan 
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 </div>
+<p></p>
+<p align="center"> 
+Repositori ini berisi implementasi dari sistem identifikasi berbasis AI untuk klasifikasi gambar batik dan chatbot. Sistem ini dirancang untuk mengidentifikasi gambar batik yang ada di Indonesia. Sistem ini diintegrasikan ke dalam aplikasi Batik Pedia, yang memungkinkan pengguna untuk mengidentifikasi jenis batik menggunakan kamera smartphone mereka serta, ke website Batik Pedia untuk pengguna bertanya-tanya seputar Batik.</p>
+
 
 ## Teams
 
@@ -79,4 +79,5 @@ Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 Bersama tim mobile & web development berhasil merealisasikan ide kami yakni membuat sebuah sistem identifikasi motif batik digital menggunakan aplikasi model dan sistem chatbot pada website untuk pengguna bertanya seputar batik di indonesia. Model berhasil diintegrasikan ke mobile dan web. Model berhasil mengidentifikasi motif batik yang di scan. Serta, chatbot dapat menjawab dan memberikan penjelasan dari pertanyaan pengguna.
 
 ## Conclusion
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+Proyek Batikpedia telah berhasil menciptakan platform digital yang komprehensif untuk melestarikan, mempromosikan, dan meningkatkan apresiasi terhadap batik Indonesia. Melalui aplikasi mobile dan website yang responsif, Batikpedia menyediakan informasi lengkap tentang batik, fitur scan batik berbasis AI menggunakan arsitektur MobileNetV2, dan chatbot interaktif menggunakan IBM Watsonx Service yang memudahkan pengguna dalam mengidentifikasi dan mempelajari batik. Secara keseluruhan, hasil pelatihan klasifikasi batik menunjukkan bahwa model siap untuk diimplementasikan dengan performa yang baik dalam mengklasifikasikan tipe batik, menunjukkan akurasi yang tinggi dan loss yang rendah pada kedua set data. Lalu, untuk chatbotnya dapat menjawab input pertanyaan dari user.
+
