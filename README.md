@@ -1,5 +1,7 @@
 <h1 align="center">  Batik Pedia / Tim AAI- Tricakrawala </h1>
 
+<img src="Preview  AI in Batik Pedia.png" alt="Alt text" title="Optional title">
+
 <p align="center"> 
 Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan dokumentasi Project Massive anda
 </p>
