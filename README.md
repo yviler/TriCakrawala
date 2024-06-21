@@ -1,6 +1,5 @@
 <h1 align="center">  Batik Pedia / Tim AAI- Tricakrawala </h1>
 
-<img src="Preview  AI in Batik Pedia.png" alt="Alt text">
 
 <p align="center"> 
 Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan dokumentasi Project Massive anda
@@ -73,7 +72,8 @@ Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
 ## Result
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+<img src="Preview  AI in Batik Pedia.png" alt="Alt text">
+Bersama tim mobile & web development berhasil merealisasikan ide kami yakni membuat sebuah sistem identifikasi motif batik digital menggunakan aplikasi model dan sistem chatbot pada website untuk pengguna bertanya seputar batik di indonesia. Model berhasil diintegrasikan ke mobile dan web. Model berhasil mengidentifikasi motif batik yang di scan. Serta, chatbot dapat menjawab dan memberikan penjelasan dari pertanyaan pengguna.
 
 ## Conclusion
 Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
