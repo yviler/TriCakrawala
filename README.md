@@ -1,4 +1,4 @@
-<h1 align="center">  Batik Pedia / Tim AAI- Tricakrawala </h1>
+<h1 align="center">  Batik Pedia | Tim AAI - Tricakrawala </h1>
 
 <div align="center">
     <img src="Logo Batik Pedia.png">
