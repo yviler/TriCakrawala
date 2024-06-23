@@ -65,9 +65,12 @@ Transfer Learning menggunakan MobileNetV2
 - Model Evaluation <br />
 Validation Accuracy: ~80%
 
+## Flow Model Building
+<img src="flow_model.png">
+
 
 ## Result
-<img src="Preview  AI in Batik Pedia.png" alt="Alt text">
+<img src="Preview  AI in Batik Pedia.png">
 Bersama tim mobile & web development berhasil merealisasikan ide kami yakni membuat sebuah sistem identifikasi motif batik digital menggunakan aplikasi model dan sistem chatbot pada website untuk pengguna bertanya seputar batik di indonesia. Model berhasil diintegrasikan ke mobile dan web. Model berhasil mengidentifikasi motif batik yang di scan. Serta, chatbot dapat menjawab dan memberikan penjelasan dari pertanyaan pengguna.
 
 ## Conclusion
