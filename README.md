@@ -65,14 +65,6 @@ Transfer Learning menggunakan MobileNetV2
 - Model Evaluation <br />
 Validation Accuracy: ~80%
 
-## Prototype
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
-## Integration
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
-
-## Deployment
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
 
 ## Result
 <img src="Preview  AI in Batik Pedia.png" alt="Alt text">
